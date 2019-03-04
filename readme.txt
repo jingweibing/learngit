@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 stupid boss
 branch
 jing
-new branch
+create new branch
+
